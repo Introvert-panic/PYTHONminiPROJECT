@@ -193,15 +193,11 @@ Choose a position from 1-9:
 
 #### LOGIC
 
-*The logic of game is based on the common rules of TTT:*
+ *The logic of game is based on the common rules of TTT:*
 
-*If you get xxx or ooo in row you win ,so we will check_rows()*
-
-*If you get xxx or ooo in column you win, so we will check_columns()*
-
-*If you get xxx or ooo in diagonal you win, so we will check_diagonal()*
-
-*You cant overwrite ,here we will handle_turn()*
-
-*If all boxes are filled and no winning conditions occurs then it’s a tie, for this we will define a condition such that if all boxes are filled its a draw in play_game()*
+* *If you get xxx or ooo in row you win ,so we will check_rows()*
+ *If you get xxx or ooo in column you win, so we will check_columns()*
+ *If you get xxx or ooo in diagonal you win, so we will check_diagonal()*
+ *You cant overwrite ,here we will handle_turn()*
+ *If all boxes are filled and no winning conditions occurs then it’s a tie, for this we will define a condition such that if all boxes are filled its a draw in play_game()*
 
