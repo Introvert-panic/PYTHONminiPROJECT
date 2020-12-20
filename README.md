@@ -1,7 +1,15 @@
 # PYTHONminiPROJECT
-## ID- 191070059  , Name-OMKAR RAGHATWAN
+## ID- 191070059  , Name-OMKAR RAGHATWAN  ,Group-1(individual)
 
 ### AIM : To make a TIC-TAC-TOE two player game using python tools/liabraries that we've learned in our lectures of Programming LAB
+
+####PYTHON Constraints:
+for making this game i.e. Tic-Tac-Toe we don't need any special liabraries its based on simple python logic
+i've used Spider(python 3.8) for the implementation.
+
+rest of the code part is depend on functions of game where 'while loop'plays major role.
+variables and 'boolean functions' will also help us to continue the turn and for selecting the winner 
+players choices will be sorted in a list of 9 items.
 
 **CODE :**
 
