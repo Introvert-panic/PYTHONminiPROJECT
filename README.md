@@ -9,7 +9,8 @@ for making this game i.e. Tic-Tac-Toe we don't need any special liabraries its b
 i've used Spider(python 3.8) for the implementation.
 
 rest of the code part is depend on functions of game where 'while loop'plays major role.
-variables and 'boolean functions' will also help us to continue the turn and for selecting the winner 
+variables and 'boolean functions' will also help us to continue the turn and for selecting the winner.
+
 players choices will be sorted in a list of 9 items.
 
 **CODE :**
