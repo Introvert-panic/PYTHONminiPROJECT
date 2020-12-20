@@ -5,6 +5,7 @@
 
 **CODE :**
 
+# which is basically gonna be our back-end 
 ```python
 
 
@@ -176,4 +177,4 @@ play_game()
 
 ```
 
-
+## our frontend will be a single instruction and as per user's choice that will run accordingly & will give a specific output.
