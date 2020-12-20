@@ -3,7 +3,8 @@
 
 ### AIM : To make a TIC-TAC-TOE two player game using python tools/liabraries that we've learned in our lectures of Programming LAB
 
-####PYTHON Constraints:
+#### PYTHON Constraints:
+
 for making this game i.e. Tic-Tac-Toe we don't need any special liabraries its based on simple python logic
 i've used Spider(python 3.8) for the implementation.
 
