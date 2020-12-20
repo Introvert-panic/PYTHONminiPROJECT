@@ -5,7 +5,7 @@
 
 **CODE :**
 
-# which is basically gonna be our back-end 
+#### which is basically gonna be our back-end 
 ```python
 
 
@@ -177,4 +177,14 @@ play_game()
 
 ```
 
-## our frontend will be a single instruction and as per user's choice that will run accordingly & will give a specific output.
+#### our frontend will be a single instruction and as per user's choice that will run accordingly & will give a specific output.
+
+*
+* | * | *     1 | 2 | 3
+* | * | *     4 | 5 | 6
+* | * | *     7 | 8 | 9
+
+
+X's turn./O's turn.
+
+Choose a position from 1-9:*
