@@ -3,7 +3,7 @@
 
 ### AIM : To make a TIC-TAC-TOE two player game using python tools/liabraries that we've learned in our lectures of Programming LAB
 
-*CODE*
+**CODE :**
 
 ```python
 
